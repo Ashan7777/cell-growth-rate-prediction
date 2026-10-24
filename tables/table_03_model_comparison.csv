@@ -1,0 +1,4 @@
+Model,CV RMSE [d^-1]
+KNN Regression,0.15154949304542978
+Polynomial Regression,0.15422913640597968
+Linear Regression,0.17387851917345115
